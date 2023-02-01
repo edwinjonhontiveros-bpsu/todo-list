@@ -1,4 +1,4 @@
 # CHED MANDATED ACTIVITIES
 
-- [] text
+- [ ] text
 - [x] text
